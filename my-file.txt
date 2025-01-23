@@ -3,3 +3,5 @@ yeah
 another edit in feature-2
 This file was edited in feature-3
 This is another edit in feature-4
+Testing signed commits in feature-4
+
